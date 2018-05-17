@@ -8,4 +8,5 @@ func main() {
 	fmt.Println("Learned the logic and usage of account system")
 	fmt.Println("Learned the usage of error handler and more mongoose operations")
 	fmt.Println("Learned the primary logics of auto-build tool Now. Installed Ubuntu 18.04 Server and Desktop version")
+	fmt.Println("Learned how now.js's archiver works")
 }
