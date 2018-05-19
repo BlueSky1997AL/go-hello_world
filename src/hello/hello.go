@@ -10,4 +10,5 @@ func main() {
 	fmt.Println("Learned the primary logics of auto-build tool Now. Installed Ubuntu 18.04 Server and Desktop version")
 	fmt.Println("Learned how now.js's archiver works")
 	fmt.Println("Learned package \"server\"")
+	fmt.Println("Learned exoframe - Auto deployment framework")
 }
