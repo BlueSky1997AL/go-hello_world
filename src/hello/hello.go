@@ -11,4 +11,5 @@ func main() {
 	fmt.Println("Learned how now.js's archiver works")
 	fmt.Println("Learned package \"server\"")
 	fmt.Println("Learned exoframe - Auto deployment framework")
+	fmt.Println("Tried to run it successfully")
 }
