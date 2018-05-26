@@ -12,4 +12,5 @@ func main() {
 	fmt.Println("Learned package \"server\"")
 	fmt.Println("Learned exoframe - Auto deployment framework")
 	fmt.Println("Tried to run it successfully")
+	fmt.Println("Successfully deployed Sentry on AWS")
 }
